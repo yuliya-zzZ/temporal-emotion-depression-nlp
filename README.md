@@ -26,7 +26,7 @@ Prior work suggests that persistent negative emotion and reduced linguistic agen
 This is a minimal demonstration version designed to show the computational workflow for social-media-based mental health modeling.
 
 ## Methods
-###The pipeline is designed to approximate how psychological processes can be operationalized from natural language data.
+### The pipeline is designed to approximate how psychological processes can be operationalized from natural language data.
 
 This repository includes:
 
