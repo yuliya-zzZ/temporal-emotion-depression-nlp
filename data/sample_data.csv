@@ -1,4 +1,4 @@
-#fake dataset for test 2026.3.19
+
 user_id,date,text,depression_label
 1,2025-01-01,"I feel tired and unmotivated today.",1
 1,2025-01-03,"Nothing seems to get better lately.",1
